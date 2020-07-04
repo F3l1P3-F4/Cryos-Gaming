@@ -57,6 +57,7 @@ __Manuel Marin__
 + ## ___Logo___
       
  __Ejemplos__
+ 
     | Clasificación | Caracteriztica | Ejemplo | 
     | ------------- | ------------- | ------------- |
     | Logotipo | Solamente Tipografico | [Ejemplo](https://logodownload.org/wp-content/uploads/2014/04/coca-cola-logo-1.png) |
