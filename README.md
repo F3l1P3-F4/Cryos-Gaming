@@ -31,7 +31,7 @@ __Manuel Marin__
   
 [___Razer___](https://www.razer.com/): Nos pareció interesante el diseño que ocupa esta web , ya que combinan muy bien lo que es la simpleza , decordación y organización de la web 
  
-[___Compragamer__](https://compragamer.com/):  Analizamos y nos pareció importante está web ya que utiliza un carrusel con todos los sponsors , eso nos parece muy importante   
+[__Compragamer__](https://compragamer.com/):  Analizamos y nos pareció importante está web ya que utiliza un carrusel con todos los sponsors , eso nos parece muy importante   
                                                para mejorar la fiabilidad de nuestro proyecto
                                         
 [___Armytech___](https://www.armytech.com.ar/): Nos pareció muy interesante que la web tenga un sector donde pueda comparar productos , creemos que es muy beneficioso ya que el 
@@ -40,18 +40,8 @@ __Manuel Marin__
 [___Fullh4rd___](https://www.fullh4rd.com.ar/cat): Es buena idea el colocar un "ver todo" y que dentro del mismo puedas filtrar por marcas y productos.
 
 
-[___Wancomputers__](http://wancomputers.com.ar/): Muy amigable con el usuario que entra , ya que esta bien desarrollado y posicionado cada item como para que los usuarios que no 
+[__Wancomputers__](http://wancomputers.com.ar/): Muy amigable con el usuario que entra , ya que esta bien desarrollado y posicionado cada item como para que los usuarios que no 
                                                   saben mucho se les hace mas facil identificar adonde estan dirigiendose dentro de la web 
-
-
- 
- 
- 
-
-
-
-
-
 
 
 
