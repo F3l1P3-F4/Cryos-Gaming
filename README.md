@@ -79,7 +79,7 @@ __CryosGaming Logo__
         4. ![#009fb7](https://via.placeholder.com/15/009fb7/000000?text=+) `#009fb7`
         5. ![#20063b](https://via.placeholder.com/15/20063b/000000?text=+) `#20063b`
 
-+##___Git Hub___
++ ##___Git Hub___
 
 https://github.com/F3l1P3-F4/Cryos-Gaming.git
 
