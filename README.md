@@ -11,6 +11,14 @@ otro cuasitexto
 
 ## Publico Objetivo
 
+Existen diversos factores que debemos observar para identificar nuestro cliente potencial, y entre ellos se encuentran los siguientes:
+
+       1.Género: No definido 
+       2.Edad: 12 en adelante
+       3.clase social: Toda persona que tenga la posibilidad de adquirir los productos publicados  
+       4.Principales hábitos de consumo: Videojuegos y Profesionales
+        
+
 ## Integrantes del equipo
 
 - Manuel Marín : 17 primaveras , capataz de obra , ingeniero civil , arquitecto y boyscout grado GrandMaster. Estudió en la real academio de minecraft 
@@ -48,7 +56,7 @@ __Manuel Marin__
 
 + ## ___Logo___
       
-       [imagenlogo](https://www.figma.com/file/O0x63Eug9Zw66yngUPqLyU/Proyecto?node-id=0%3A1)
+      
 
     | Clasificación | Caracteriztica | Ejemplo | 
     | ------------- | ------------- | ------------- |
