@@ -28,8 +28,8 @@ __Manuel Marin__
 
 
 ## Páginas web de referencia:
-  [imagenlogo](https://www.figma.com/file/O0x63Eug9Zw66yngUPqLyU/Proyecto?node-id=0%3A1)
-![Razer](https://www.razer.com/): Nos pareció interesante el diseño que ocupa esta web , ya que combinan muy bien lo que es la simpleza , decordación y organización de la web 
+  
+__ [___Razer___](https://www.razer.com/): Nos pareció interesante el diseño que ocupa esta web , ya que combinan muy bien lo que es la simpleza , decordación y organización de la web 
  
 [Compragamer] https://compragamer.com/ : Analizamos y nos pareció importante está web ya que utiliza un carrusel con todos los sponsors , eso nos parece muy importante para  
                                         mejorar la fiabilidad de nuestro proyecto
