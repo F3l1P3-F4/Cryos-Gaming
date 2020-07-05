@@ -2,7 +2,7 @@
 
 ## Cryos-Gaming
 
-computadora lorem ipsum y la gilada  ni cabida texto bonito de presentacion del proyecto : 
+Cryos-Gaming es una distribuidora 
 
 - beneficios y venntajas de Cryos-Gaming ( distribuidora de componentes que trabajan de la mano con otras empresas del mundo tecnologico) 
 -  blablalbalbalbal
@@ -20,8 +20,6 @@ Existen diversos factores que debemos observar para identificar nuestro cliente 
         
 
 ## Integrantes del equipo
-
-- Manuel Marín : 17 primaveras , capataz de obra , ingeniero civil , arquitecto y boyscout grado GrandMaster. Estudió en la real academio de minecraft 
 
 __Felipe Facello__
     
